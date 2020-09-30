@@ -1,0 +1,1 @@
+print("A lightning flash" "\n Between the forest trees" "I\n have seen water. " "\n-shiki")
